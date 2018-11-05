@@ -1,97 +1,94 @@
-
-
 .logo{
 height: 80px;
 margin-top: 10px
 }
 
 .navbarDefault{
-  height: 40px;
-  background-color: #3355aa;
-
-	color:white;
- font-family: "Georgia";
-  font-size : 15px;
-  font-style: italic;
+height: 40px;
+background-color: #3355aa;
+color:white;
+font-family: "Georgia";
+font-size : 15px;
+font-style: italic;
 }
+
 .navbarDefault a{
 color :white;
 }
+
 .toprightNavbar{
 float:right;
-
 }
+
 .navBorder{
 border-left: 1px solid #483D8B;
- 
-  margin-left:20px;
- margin-right: 10px; 
-  
+margin-left:20px;
+margin-right: 10px; 
 }
 
 .menu{
 height: 450px;
 margin-top: 35px;
-  margin-bottom: 45px;
+margin-bottom: 45px;
 }
+
 .searchbtn{
 margin : 10px 5px 10px 5px;
 }
 
-
 .linkColor {
-  color:white;
- font-family: "Georgia";
-  font-size : 14px;
-  font-style: italic;
+color:white;
+font-family: "Georgia";
+font-size : 14px;
+font-style: italic;
 }
+
 a:hover {
-    color: black;
+color: black;
 }
 
 .navSpace{
-  margin-top: 25px;
-  margin-bottom: 10px;
+margin-top: 25px;
+margin-bottom: 10px;
 }
 
 .photo{
 margin: 5px 5px 5px 5px;
- 
 }
 
 .infoPadding{
-  padding-top: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
 }
 
 .heading{
-  font-weight: bold;
-  font-family: "Georgia";
-  font-size : 16px;
-  color: #3355aa;
+font-weight: bold;
+font-family: "Georgia";
+font-size : 16px;
+color: #3355aa;
 }
 
 .yellowBorder {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  border-top : 5px solid #DAA520;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+border-top : 5px solid #DAA520;
 }
 .grayBorder{
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  border-color: #3d3d3d;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+border-color: #3d3d3d;
 }
 
 .info{
-  font-family: "Georgia";
-  font-size : 14px;
+font-family: "Georgia";
+font-size : 14px;
 }
 
 .discription{
-  font-family: "Georgia";
-  font-size : 14px;
+font-family: "Georgia";
+font-size : 14px;
 font-style: italic
 }
 
@@ -101,9 +98,9 @@ color: gray;
 }
 
 .para{
-  font-family: "Georgia";
-  font-size : 14px;
-  font-style: italic;
+font-family: "Georgia";
+font-size : 14px;
+font-style: italic;
 padding: 15px 15px 5px 15px;
 }
 
@@ -115,76 +112,73 @@ padding-bottom: 75px;
 }
 
 .graybox{
-  height:250px;
-  background-color : lightgray;
-  margin: 25px 5px 5px 5px;
+height:250px;
+background-color : lightgray;
+margin: 25px 5px 5px 5px;
 }
 
 .sector{
 font-weight: bold;
-  font-family: "Georgia";
-  font-size : 28px;
-  text-align: center;
-  padding-top: 25px;
-  margin-bottom: 25px;
+font-family: "Georgia";
+font-size : 28px;
+text-align: center;
+padding-top: 25px;
+margin-bottom: 25px;
 }
 
 .grayBoxHead{
 height : 40px;
-  font-family: "Georgia";
-  color: #3355aa;
-  text-align: center;
-  font-size:16px;
+font-family: "Georgia";
+color: #3355aa;
+text-align: center;
+font-size:16px;
 }
 
 .footerContent{
-  background-color: #333333;
-  color: white;
+background-color: #333333;
+color: white;
 }
 .topFooter{
- padding-top: 15px;
- padding-bottom: 25px;
-   
+padding-top: 15px;
+padding-bottom: 25px;
+
 }
 .bottomFooter{
 padding-top: 15px;
 padding-bottom: 25px;
-  
-  
 }
 
 .leftfooter a{
-  font-family: "Georgia";
-  font-size : 14px;
-  float:left;
-  color: white;
-
+font-family: "Georgia";
+font-size : 14px;
+float:left;
+color: white;
 }
-
 
 .rightfooter {
-  font-family: "Georgia";
-  font-size : 11px;
-  float:right;
-  color: white;
+font-family: "Georgia";
+font-size : 11px;
+float:right;
+color: white;
 }
+
 .rightfooter a{
-  
-  color: white;
+color: white;
 }
 
 .footerborder {
- padding-top: 15px;
- border-bottom-style: inset;
-  border-color: #3d3d3d;
+padding-top: 15px;
+border-bottom-style: inset;
+border-color: #3d3d3d;
 }
+
 .spanpadding{
-  padding-left: 8px;
-  padding-right: 8px;
+padding-left: 8px;
+padding-right: 8px;
 margin-left: 10px;
 border-left: 1px solid white;
-
 }
+
 .copyright{
 font-size : 11px
 }
